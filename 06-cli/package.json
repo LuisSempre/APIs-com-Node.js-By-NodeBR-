@@ -1,0 +1,15 @@
+{
+  "name": "06-cli",
+  "version": "1.0.0",
+  "description": "NodeJS CLI out the web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Luis Lucas",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
